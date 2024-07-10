@@ -1,0 +1,17 @@
+/* Cascading Style Sheet */
+
+/* Using inline css: by using the <style> attribute inside HTML elements(single)*/
+/* Using the internal style: by using the <style> elements in the <head> section*/
+/* using the external style : by using a <link> element to link to an external CSS file*/
+section{
+margin-bottom: 20px;
+}
+button{
+    padding: 10px;
+    border-bottom: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
